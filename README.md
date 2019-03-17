@@ -1,5 +1,5 @@
 # HousePrices
-Python Advanced Regression - Kaggle Competition<br>
+## Python Advanced Regression - Kaggle Competition<br>
 Predict sales prices and practice feature engineering, RFs and gradient boosting.<br>
 
 ### Competition Description<br>
